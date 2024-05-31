@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Chest {
+public class Chest extends Tile{
+
 }
